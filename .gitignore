@@ -1,0 +1,21 @@
+# المفاتيح والبيانات الحساسة
+.env
+*.key
+*.secret
+
+# بيانات الجلسة
+cookies.json
+session.json
+replied.json
+stats.json
+
+# قاعدة البيانات
+memory_db/
+*.db
+*.sqlite
+
+# ملفات النظام
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
