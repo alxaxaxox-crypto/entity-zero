@@ -1,0 +1,7 @@
+# targets.txt - قائمة الأهداف
+# سطر واحد لكل تغريدة
+# التعليقات تبدأ بـ #
+
+https://x.com/elonmusk/status/1234567890
+https://x.com/sama/status/0987654321
+https://x.com/twitter/status/1122334455
